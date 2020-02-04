@@ -1,0 +1,8 @@
+C:\Users\dewberm\source\repos\PythonNetFloatTest\MyModule\bin\Debug\netstandard2.0\MyModule.deps.json
+C:\Users\dewberm\source\repos\PythonNetFloatTest\MyModule\bin\Debug\netstandard2.0\MyModule.dll
+C:\Users\dewberm\source\repos\PythonNetFloatTest\MyModule\bin\Debug\netstandard2.0\MyModule.pdb
+C:\Users\dewberm\source\repos\PythonNetFloatTest\MyModule\obj\Debug\netstandard2.0\MyModule.csprojAssemblyReference.cache
+C:\Users\dewberm\source\repos\PythonNetFloatTest\MyModule\obj\Debug\netstandard2.0\MyModule.AssemblyInfoInputs.cache
+C:\Users\dewberm\source\repos\PythonNetFloatTest\MyModule\obj\Debug\netstandard2.0\MyModule.AssemblyInfo.cs
+C:\Users\dewberm\source\repos\PythonNetFloatTest\MyModule\obj\Debug\netstandard2.0\MyModule.dll
+C:\Users\dewberm\source\repos\PythonNetFloatTest\MyModule\obj\Debug\netstandard2.0\MyModule.pdb
