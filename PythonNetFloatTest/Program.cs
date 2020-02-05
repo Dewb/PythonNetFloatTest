@@ -17,9 +17,6 @@ namespace PythonNetFloatTest
             string callWithIntArgs = "result = MyClass.Add(1, 2)";
             string callWithMixedArgs = "result = MyClass.Add(1.0, 2)";
 
-            var installer = new Python.Included.Installer();
-            installer.SetupPython().Wait();
-
             PythonEngine.Initialize();
             using (Py.GIL())
             {
